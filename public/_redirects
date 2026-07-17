@@ -1,0 +1,8 @@
+# Path aliases → canonical routes (Workers Static Assets: relative URLs only).
+# Host-level www/http → apex redirects: Cloudflare Redirect Rules + Always Use HTTPS.
+# Do not add absolute https:// host rules here.
+
+/cruise-port-guide /rhodes-cruise-port-guide/ 301
+/cruise-port-guide/ /rhodes-cruise-port-guide/ 301
+/ship-schedules/rhodes /rhodes-cruise-schedule/ 301
+/ship-schedules/rhodes/ /rhodes-cruise-schedule/ 301

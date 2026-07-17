@@ -1,0 +1,90 @@
+[
+  {
+    "date": "2026-05-12",
+    "ship": "MSC Fantasia",
+    "cruiseLine": "MSC Cruises",
+    "arrival": "07:00",
+    "departure": "18:00",
+    "timeInPort": "11h",
+    "terminal": "Akandia",
+    "callType": "Port of call",
+    "notes": "Illustrative sample only — confirm with your cruise line before planning"
+  },
+  {
+    "date": "2026-06-03",
+    "ship": "Celebrity Constellation",
+    "cruiseLine": "Celebrity Cruises",
+    "arrival": "08:00",
+    "departure": "17:00",
+    "timeInPort": "9h",
+    "terminal": "Akandia",
+    "callType": "Port of call",
+    "notes": "Illustrative sample only — confirm with your cruise line before planning"
+  },
+  {
+    "date": "2026-06-21",
+    "ship": "Norwegian Jade",
+    "cruiseLine": "Norwegian Cruise Line",
+    "arrival": "07:30",
+    "departure": "16:30",
+    "timeInPort": "9h",
+    "terminal": "Akandia",
+    "callType": "Port of call",
+    "notes": "Illustrative sample only — confirm with your cruise line before planning"
+  },
+  {
+    "date": "2026-07-15",
+    "ship": "Costa Toscana",
+    "cruiseLine": "Costa Cruises",
+    "arrival": "08:00",
+    "departure": "19:00",
+    "timeInPort": "11h",
+    "terminal": "Akandia",
+    "callType": "Port of call",
+    "notes": "Illustrative sample only — confirm with your cruise line before planning"
+  },
+  {
+    "date": "2026-08-09",
+    "ship": "Silver Spirit",
+    "cruiseLine": "Silversea Cruises",
+    "arrival": "09:00",
+    "departure": "18:00",
+    "timeInPort": "9h",
+    "terminal": "Mandraki",
+    "callType": "Port of call",
+    "notes": "Illustrative sample only — smaller-ship berth may differ from Akandia"
+  },
+  {
+    "date": "2026-09-02",
+    "ship": "Royal Caribbean — Explorer of the Seas",
+    "cruiseLine": "Royal Caribbean International",
+    "arrival": "07:00",
+    "departure": "16:00",
+    "timeInPort": "9h",
+    "terminal": "Akandia",
+    "callType": "Port of call",
+    "notes": "Illustrative sample only — confirm with your cruise line before planning"
+  },
+  {
+    "date": "2027-05-18",
+    "ship": "Oceania Riviera",
+    "cruiseLine": "Oceania Cruises",
+    "arrival": "08:00",
+    "departure": "18:00",
+    "timeInPort": "10h",
+    "terminal": "Akandia",
+    "callType": "Port of call",
+    "notes": "Illustrative sample only — 2027 schedules not yet published by most lines"
+  },
+  {
+    "date": "2027-07-06",
+    "ship": "Azamara Journey",
+    "cruiseLine": "Azamara",
+    "arrival": "07:00",
+    "departure": "20:00",
+    "timeInPort": "13h",
+    "terminal": "Akandia",
+    "callType": "Overnight-adjacent long call",
+    "notes": "Illustrative sample only — 2027 schedules not yet published by most lines"
+  }
+]
